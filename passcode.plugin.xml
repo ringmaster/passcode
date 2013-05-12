@@ -19,4 +19,8 @@
 
 	<guid>38e57790-7a20-4577-8e7a-2155583516fa</guid>
 
+	<requires>
+		<feature>0.10</feature>
+	</requires>
+
 </pluggable>

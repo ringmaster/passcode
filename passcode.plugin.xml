@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<pluggable type="plugin">
+	<name>Passcode</name>
+	<license url="http://www.apache.org/licenses/LICENSE-2.0.html">Apache Software License 2.0</license>
+
+	<author url="http://owenw.com/">Owen Winkler</author>
+
+	<version>1.0</version>
+	<url>http://redalt.com/</url>
+	<description><![CDATA[Associate a password with any post.  Access the post with the password to allow anyone read access to the post, regardless of current authentication.]]></description>
+
+	<copyright>2013</copyright>
+
+	<help>
+		<value><![CDATA[
+		<p>There is no helping you now.
+		]]></value>
+	</help>
+
+	<guid>38e57790-7a20-4577-8e7a-2155583516fa</guid>
+
+</pluggable>
